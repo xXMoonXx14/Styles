@@ -1,0 +1,39 @@
+/* STYLES */
+
+h1 {
+    color:chocolate;
+    size:30pt;
+}
+
+h2{
+    color:darkcyan;
+    size:20pt;
+}
+
+h3{
+    color:darkmagenta;
+}
+
+h4{
+    color:lime;
+}
+
+body {
+    background:lightblue;
+    color: darkslategray;
+    font-family: sans-serif;
+    margin-top:100px;
+    margin-left:60px;
+    margin-right:160px;
+    margin-bottom:100px;
+
+    font-size: 16px;
+    color: black;
+    background: lightgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
